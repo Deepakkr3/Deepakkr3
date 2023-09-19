@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/k73222493" target="blank"><img src="https://img.shields.io/twitter/follow/k73222493?logo=twitter&style=for-the-badge" alt="k73222493" /></a> </p>
 
-- 🌱 I’m currently learning **Spring Boot,React**
+
 
 - 👨‍💻 All of my projects are available at [https://github.com/Deepakkr3](https://github.com/Deepakkr3)
 
