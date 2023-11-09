@@ -1,16 +1,19 @@
 # Hi, I'm Deepak kumar!👋
-## 🚀 About Me
-Hello, I'm Deepak kumar, a passionate  full stack web developer with expertise in web development and programming languages such as Java, JavaScript, HTML, and CSS, as well as libraries and frameworks like Spring Boot, MySQL, Bootstrap, Tailwind CSS, and React.js. I love building and contributing to open source projects and collaborating with the developer community.
-
-<p align="left"> <a href="https://twitter.com/k73222493" target="blank"><img src="https://img.shields.io/twitter/follow/k73222493?logo=twitter&style=for-the-badge" alt="k73222493" /></a> </p>
 
 
-
-- 👨‍💻 All of my projects are available at [https://github.com/Deepakkr3](https://github.com/Deepakkr3)
 
 - 💬 Ask me about **spring boot,React,Java,Javascript**
 
 - 📫 How to reach me **deepakbaitha7905@gmail.com**
+- ## Technologies
+I have experience working with:
+- Programming Languages: Java,java Script
+- Web Technologies: HTML
+     CSS
+     Bootstrap
+    Tailwind CSS
+- Frameworks: Bootstrap,Tailwind css,Spring Boot,React.js
+- Databases: MySql
 
 
 <h3 align="left">Connect with me:</h3>
