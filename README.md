@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Deepak</h1>
-<h3 align="center">A passionate java developer from India</h3>
+# Hi, I'm Deepak kumar!👋
+## 🚀 About Me
+Hello, I'm Deepak kumar, a passionate  full stack web developer with expertise in web development and programming languages such as Java, JavaScript, HTML, and CSS, as well as libraries and frameworks like Spring Boot, MySQL, Bootstrap, Tailwind CSS, and React.js. I love building and contributing to open source projects and collaborating with the developer community.
 
 <p align="left"> <a href="https://twitter.com/k73222493" target="blank"><img src="https://img.shields.io/twitter/follow/k73222493?logo=twitter&style=for-the-badge" alt="k73222493" /></a> </p>
 
