@@ -20,7 +20,7 @@ I'm a passionate developer with expertise in DSA, Java, JavaScript, HTML, CSS, R
 ![](https://github-profile-trophy.vercel.app/?username=Deepakkr3&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 [![](https://visitcount.itsvg.in/api?id=Deepakkr3&label=Profile%20Views&icon=0&pretty=false)](https://visitcount.itsvg.in)
 
-HTML / Framework code
+
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=Deepakkr3&label=Profile%20Views&icon=0&pretty=false" />
 </a>
