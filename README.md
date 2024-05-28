@@ -1,6 +1,6 @@
 #I'm Deepak Kumar, a passionate software developer with expertise in a variety of technologies.
 # 💫 About Me:
-I thrive on crafting efficient and robust web applications by leveraging the power of Java, JavaScript, React.js, and a range of backend technologies. My experience with Spring Boot, Node.js, and Express.js allows me to architect scalable and high-performance backend systems, while my proficiency with MySQL and MongoDB enables me to design robust data storage solutions.
+Enthusiastic software developer with expertise in Java, Python, and JavaScript. Passionate about building scalable applications using Spring Boot, React.js, and other modern technologies. Proven track record in microservices architecture and agile development Proficient in frameworks and libraries including Spring Boot, Hibernate,JPA,MySql React.js,Node.js,Express.js and Next.js. Proven expertise in microservices architecture and DevOps tools such as Docker and Kafka. Adept at leading teams and mentoring junior developers
 
 I enjoy the challenge of building seamless user experiences on the frontend, and I'm equally at home optimizing server-side performance and scalability.
 
